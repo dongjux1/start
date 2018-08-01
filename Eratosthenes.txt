@@ -19,7 +19,7 @@ int prime(int n) {
 int main() {
 	int a, b;
 
-	scanf("%d %d", &a, &b); //�ִ� 16
+	scanf("%d %d", &a, &b); //ÃÖ´ë 16
 	int w = 0;
 	for (int i = a; i <=b  ; i++) {
 		arr[w] = i;
