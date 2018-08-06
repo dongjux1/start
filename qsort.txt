@@ -1,3 +1,7 @@
+//퀵소트 c언어 stdlib.h
+
+
+
 int static compare (const void* first, const void* second)
 {
     if (*(int*)first > *(int*)second)
